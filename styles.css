@@ -1,7 +1,13 @@
 body {
+<<<<<<< HEAD
     background-color: purple;
     border: 2px solid dashed;
 
+=======
+    background-color: brown;
+    margin: 0;
+    border: solid 1px black;
+>>>>>>> feature/homepage-design
 }
 
 header {
